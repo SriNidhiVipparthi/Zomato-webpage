@@ -1,2 +1,2 @@
-# Zomato-web-page-master-divyasri
+# Zomato-webpage
 Zomato-web-page-master- html , css , js, react js...
